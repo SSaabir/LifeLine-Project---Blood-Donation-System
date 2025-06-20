@@ -6,7 +6,7 @@ Lifeline is a centralized web-based blood donation system designed to bridge the
 
 ## 🌐 Project Overview
 
-The Lifeline system allows hospitals to register and manage blood inventory, while donors can register, view appointments, and respond to blood requests. The platform supports core functionalities like booking, canceling, rescheduling appointments, and maintaining a donor record history.
+The Lifeline system allows hospitals and donors to register, view appointments, and hospitals to respond to blood requests. The platform supports core functionalities like booking, canceling, rescheduling appointments, and maintaining a donor record history.
 
 ---
 
